@@ -17,7 +17,7 @@ Languages and technologies:
 - Javascript;
 - jQuery;
 - Git;
-- PHP Frameworks (Symfony2);
+- PHP Frameworks (CakePHP);
 - PHP CMS (Wordpress, Drupal);
 - Node.js
 - MySQL.
@@ -28,7 +28,7 @@ Languages and technologies:
 - AngularJS;
 - SASS;
 - Task Runners (Gulp);
-- PHP Frameworks (Symfony2);
+- PHP Frameworks (Symfony2, Silex);
 - MongoDB.
 
 ##Education
