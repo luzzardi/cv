@@ -38,8 +38,8 @@ Languages and technologies:
 ##Professional Experiences
 
 **07/2011 ~ 6/2013** - W8S - Intelligent Solutions  
-Worked as Front-End developer using the company CMS solution.
+Worked as Front-End developer using the company CMS solution based on PHP/CakePHP.
 
 **07/2013 ~ current** - Conrad Caine GmbH  
-Started to work with Back-End development where in some projects I worked as Front-end too, I started to learn Drupal and getting several projects to maintain using CakePHP or Symfony2. I worked in some projects with Node.js after that I started to learn Wordpress
+Started to work with Back-End development where in some projects I worked as Front-end too, I started to learn Drupal and Wordpress and getting several projects to maintain using CakePHP, Symfony2 and Node.js.
  
