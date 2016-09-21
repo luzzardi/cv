@@ -12,24 +12,24 @@ Linguagens e Tecnologias:
 
 **Major experience**:
 
-- HTML;
-- CSS;
 - Javascript;
-- jQuery;
+- Angular 2;
 - Git;
-- PHP Frameworks (CakePHP);
+- PHP Frameworks (CakePHP, Symfony2, Silex);
 - PHP CMS (Wordpress, Drupal);
-- Node.js
+- Node.js (express)
 - MySQL.
 
 **Average experience**:
 
+- HTML;
+- CSS;
+- jQuery;
 - Stylus;
 - AngularJS;
 - SASS;
-- Task Runners (Gulp);
-- PHP Frameworks (Symfony2, Silex);
 - MongoDB.
+- ElasticSearch
 
 ##Educação
 
