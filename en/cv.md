@@ -2,8 +2,7 @@
 
 ### Contact information
 
-**E-mail**: luzzardi@gmail.com  
-**Mobile Phone**:  +55 53 91043883  
+**E-mail**: luzzardi@gmail.com
 **Linkedin**: https://br.linkedin.com/pub/andré-luzzardi-de-carvalho/19/714/85a
 
 ##Skills
@@ -12,13 +11,12 @@ Languages and technologies:
 
 **Major experience**:
 
-- Javascript;
 - Angular 2;
 - Git;
-- PHP Frameworks (CakePHP, Symfony2, Silex);
-- PHP CMS (Wordpress, Drupal);
-- Node.js (express)
-- MySQL.
+- Javascript;
+- MySQL;
+- Node.js;
+- PHP (CakePHP, Symfony2, Silex, Wordpress, Drupal);
 
 **Average experience**:
 
@@ -26,10 +24,8 @@ Languages and technologies:
 - CSS;
 - jQuery;
 - Stylus;
-- AngularJS;
 - SASS;
-- MongoDB.
-- ElasticSearch
+- MongoDB;
 
 ##Education
 
